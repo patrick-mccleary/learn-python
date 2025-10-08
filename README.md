@@ -7,8 +7,7 @@ It follows structured practice (courses, challenges, and tutorials) but also inc
 
 ## 📂 Structure
 - **Projects/** → Small practice projects from [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)  
-- **Exercises/** → Coding challenges from platforms such as [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codility](https://www.codility.com/), and [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)  
-- **Resources/** → Useful learning resources such as lecture slides and cheat sheets    
+- **Exercises/** → Coding challenges from platforms such as [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codility](https://www.codility.com/), and [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ---
 
