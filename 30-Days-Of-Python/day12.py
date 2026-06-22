@@ -1,3 +1,5 @@
+# Day 12  - 30DaysOfPython Challenge
+
 from random import randint, choices, choice, shuffle
 from string import ascii_letters
 
